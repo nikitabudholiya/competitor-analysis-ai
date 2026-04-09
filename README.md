@@ -16,9 +16,12 @@
 
 ## 📸 Demo
 
-<img width="1424" height="742" alt="Screenshot 2026-04-04 at 1 24 04 AM" src="https://github.com/user-attachments/assets/486ade4c-734a-40fc-b45c-fd313b3cebdd" />
+<img width="1424" height="742" alt="Screenshot 2026-04-04 at 1 24 04 AM" src="https://github.com/user-attachments/assets/dd3bea36-bd72-4674-969b-890dbf7589c2" />
 
-<img width="1448" height="782" alt="Screenshot 2026-04-04 at 1 27 09 AM" src="https://github.com/user-attachments/assets/3637c322-449f-40b1-ae77-191d40f7d4e8" />
+---
+
+<img width="1448" height="782" alt="Screenshot 2026-04-04 at 1 27 09 AM" src="https://github.com/user-attachments/assets/52bdac4c-46bb-4636-b0a9-84b8ad42ff08" />
+
 
 
 ---
